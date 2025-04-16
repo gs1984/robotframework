@@ -1,0 +1,9 @@
+robotframework-browser
+robotframework-pabot
+allure-robotframework
+pyyaml
+robotframework-csvlib
+robotframework-requests
+robotframework-metrics
+robotframework-retryfailed
+robotframework-autorecorder

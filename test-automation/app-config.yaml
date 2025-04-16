@@ -1,0 +1,82 @@
+env: uat
+browser:  chromium
+headless:   False
+dev:
+  url: "https://swbedrock-dev.successwareg2.com/"
+  credentials:
+    username: "admin@automation.com"
+    password: "P@ssw0rd!"
+    approval_user_username: "admin@bedrock.com"
+    approval_user_password: "Password@123"
+  tenantname: "[TEST] Automation"
+  public_api_url: "https://publicapi-dev.successwareg2.com/api/"
+qa:
+  url: "https://swbedrock-qa.successwareg2.com/"
+  credentials:
+    username: "admin@automation.com"
+    password: "P@ssw0rd!"
+    approval_user_username: "admin@bedrock.com"
+    approval_user_password: "Password@123"
+  tenantname: "[TEST] Automation"
+  public_api_url: "https://publicapi-qa.successwareg2.com/api/"
+uat:
+  url: "https://swbedrock-uat.successwareg2.com/"
+  credentials:
+    username: "admin@automation.com"
+    password: "Password@123"
+    approval_user_username: "admin@bedrock.com"
+    approval_user_password: "Password@4567$"
+  tenantname: "[TEST] Automation"
+  public_api_url: "https://publicapi-uat.successwareg2.com/api/"
+prod:
+  url: "https://office.successware.com/"
+  credentials:
+    username: "admin@automation.com"
+    password: "P@ssw0rd!"
+    approval_user_username: "admin@bedrock.com"
+    approval_user_password: "Gen2Prod@202411!"
+  tenantname: "[TEST] Automation"
+  public_api_url: "https://publicapi.successwareg2.com/api/"
+rc:
+  url: "https://swbedrock-rc.successwareg2.com/"
+  credentials:
+    username: "admin@automation.com"
+    password: "P@ssw0rd!"
+    approval_user_username: "admin@bedrock.com"
+    approval_user_password: "Password@123"
+  tenantname: "[TEST] Automation"
+  public_api_url: "https://publicapi-rc.successwareg2.com/api/"
+dr:
+  url: "https://swbedrock-dr.successwareg2.com/"
+  credentials:
+    username: "admin@automation.com"
+    password: "P@ssw0rd!"
+    approval_user_username: "admin@bedrock.com"
+    approval_user_password: "Password@123"
+  tenantname: "[TEST] Automation"
+  public_api_url: "https://publicapi-dr.successwareg2.com/api/"
+rcdr:
+  url: "https://swbedrock-rcdr.successwareg2.com/"
+  credentials:
+    username: "admin@automation.com"
+    password: "P@ssw0rd!"
+    approval_user_username: "admin@bedrock.com"
+    approval_user_password: "Password@123"
+  tenantname: "[TEST] Automation"
+  public_api_url: "https://publicapi-rcdr.successwareg2.com/api/"
+antd:
+  url: "https://swbedrock-antd-dev.successwareg2.com/service/home.html"
+  credentials:
+    username: "admin@automation.com"
+    password: "Password@123"
+    approval_user_username: "admin@bedrock.com"
+    approval_user_password: "Password@123"
+  tenantname: "[TEST] Automation"
+rcbk:
+  url: "https://swbedrock-rcbk.successwareg2.com/"
+  credentials:
+    username: "admin@automation.com"
+    password: "P@ssw0rd!"
+    approval_user_username: "admin@bedrock.com"
+    approval_user_password: "Password@123"
+  tenantname: "[TEST] Automation"
