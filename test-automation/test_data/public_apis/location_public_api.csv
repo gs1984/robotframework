@@ -1,0 +1,10 @@
+key,value
+page_1,0
+size_1,10
+location_id_1,1007100001
+location_id_2,1007000001
+bad_location_id_1,0
+public_api_fetch_successful,"FETCHED SUCCESSFULLY"
+zone_1,"NE"
+city_1,"Buffalo"
+zip_1,"14213"
