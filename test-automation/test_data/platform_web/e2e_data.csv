@@ -1,0 +1,62 @@
+key,value
+lead_source_type,CLUB
+lead_source_id,INV
+address_1,1270 Lakme street
+city,USA
+state,TA
+zip_code,43210
+job_class,Electrical
+job_type,PanIN - Panel Installation
+job_lead_source,TELE - Telemarketing
+technician_name,Brandi Kramer
+dispatched_time,03
+onsite_time,04
+completed_time,06
+job_created_success_msg,Call Record Created Successfully
+customer_creation_success_message,Customer Record Created Successfully
+updated_assignment_progress_msg,Successfully updated the assignment progress status
+unitprice,1000
+itemtype,Parts
+item_no,00426 - parts Item
+dept,00
+itempost_success_msg,Invoice Posting Successful
+month,March
+payment_method,Cash
+type_name,11TC6 - 
+date,1
+agreement_created_msg,Agreement created successfully
+future_payment_details_saved_msg,Future Payment Details Saved Successfully
+Vendor_Address,"Tessier Drive, Columbus, OH, USA"
+Name_PO,sidhant ranjan
+Item#,Bonus
+Department,00
+Unit_Cost,5000
+Item_Type,OverHead
+Item#,Bonus
+Department,00
+Unit_Cost,5000
+Vendor_Added_Notification,Vendor added successfully.
+po_order_create_message,Purchase order successfully created.
+receipt_created_message,Receipt successfully created
+receipt_posted_message,Receipt posted successfully
+additem_description,parts Item
+standard_cost,1000
+item_created_notification,Parts Item Successfully Created.
+group_created_message,Group has been saved successfully
+receipt_created_success_msg,Receipt successfully created
+receipt_updated_success_msg,Receipt successfully updated
+receipt_posted_success_msg,Receipt posted successfully
+requisition_created_success_msg,Requisition added successfully
+requisition_item_success_msg,Requisition Item Successfully Created
+requisition_posted_success_msg,Successfully Posted the Requisition
+return_created_success_msg,Return updated successfully
+return_item_success_msg,Return Item Successfully Created
+return_posted_success_msg,
+transfer_created_success_msg,
+transfer_item_success_msg,
+transfer_posted_success_msg,
+adjust_created_success_msg,
+adjust_item_success_msg,
+adjust_posted_success_msg,
+received_qty,3
+pulled_qty,2

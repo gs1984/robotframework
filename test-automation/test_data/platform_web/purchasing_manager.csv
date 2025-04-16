@@ -1,0 +1,63 @@
+key,value
+lead_source_type,CLUB
+Vendor_Number,700007
+Name_PO,sidhant ranjan
+Name_PO_2,Richard Blaine
+Item_Type,OverHead
+Item#,ADVDM
+Department,00 - Administrative
+Unit_Cost,5000
+send_eorder_mail,abc@gmail.com
+send_eorder_accno,123456789012
+send_eorder_contactname,Sidhant Rishabh
+send_eorder_contactmail,abcd@gmail.com
+Job_Number,201112
+Yellow_rgb,"rgb(255, 255, 0)"
+Maroon_rgb,"rgb(0, 128, 0)"
+Light_green_rgb,"rgb(128, 0, 0)"
+Vendor_Address,"Tessier Drive, Columbus, OH, USA"
+Vendor_History_Payment,500
+additem_item_no,1340
+additem_description,parts Item
+standard_cost,1000
+Vendor_History_Adjustment,100
+Adjust_code,DISC 
+Vendor_History_Refund,-100
+on_hold_comment,On-hold
+Ship_to_job_notification,Either specify a job number or enter "ship-to" address manually.
+submit_eorder_error_message,An account number is required.
+Vendor_payment_error_message,Please enter a payment amount 
+Vendor_adjust_error_message,Adjust Amount should be greater than zero.
+Reverse_Payble,Posting Completed
+Recalculate_Account_Totals,Account Totals have been recalculated.
+Vendor_adjust_notification,Adjustment successful
+Age_notification_message,Age Updated successfully
+allocate_adjustment_notification,Adjustment successful
+Vendor_payment_notification,Posted successfully
+Vendor_Refund_Notification,Vendor Refund Successfully Posted
+group_created_message,Group has been saved successfully
+item_created_notification,Parts Item Successfully Created.
+item_updated_notification,Parts Item Successfully Updated.
+item_deleted_notification,Item has been successfully deleted
+group_deleted_notification,Group has been deleted
+Vendor_Added_Notification,Vendor added successfully.
+po_order_create_message,Purchase order successfully created.
+po_order_update_message,Purchase order successfully updated.
+receipt_created_message,Receipt successfully created
+receipt_posted_message,Receipt posted successfully
+invoice_posted_message,Invoice posted successfully
+receipt_adjusted_message,Invoice adjusted successfully
+invoice_update_message,Vendor Invoice updated successfully.
+add_item_created_message,Purchase order Item Successfully Created
+preview_po,Preview PO
+50page,50 / page
+100page,100 / page
+200page,200 / page
+500page,500 / page
+customization_updated_msg,Your customizations have been saved!
+column_error_msg,You must select atleast one column to view data on the grid. You cannot hide all columns.
+PO_column,PO #
+dicount_percentage,20
+total_after_discount_expected,$4
+
+

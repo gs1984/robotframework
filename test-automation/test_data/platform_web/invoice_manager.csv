@@ -1,0 +1,93 @@
+key,value
+lead_source_type,CLUB
+lead_source_id,INV
+address_1,1111 Stimmel Road
+city,Columbus
+state,OH
+zip_code,43223
+payment_method,Cash
+job_class,Electrical
+job_type,PanIN - Panel Installation
+job_lead_source,TELE - Telemarketing
+lead_source,TESTSL
+customer_creation_success_message,Customer Record Created Successfully
+job_created_success_msg,Call Record Created Successfully
+
+discounttype,DSCLUB
+discounttype_success,Invoice Discount Successfully Created.
+itemtype,Parts
+item_no,03113 - parts Item
+item1,00672
+itemtype_labor,Labor
+item_no_labor,GENLABOR
+itemtype_misc,Misc
+item_no_misc,1000-10 - SEWER MACHINE CHARGE
+itemtype_task,Task
+item_no_task,C1000 - Install Bryant 3ton AC
+unitprice,1000
+paymentamount,1500
+netbalance_expected,-$500.00
+unitpricezero,0
+taxcode_amount,50
+dept,00
+quantity,5
+unitcost,50
+markup,2
+itemeditcost_success_expectedmsg,Enter Cost Record has been saved successfully.
+itemsuccess_msg,Item Detail has been saved successfully
+itemsuccess_msg1,Success
+paymentupdatesuccess_msg,Invoice Payment Updated Successfully
+beforeDiscount,$1,000.00
+paymentmethod,Cash
+itempost_success_msg,Invoice Posting Successful
+invoicepayment_success_msg,Invoice Payment Successfully Applied.
+invoiceadjust_success_msg,Invoice Successfully adjusted
+deletelineitem_info_msg,Delete the line items first.
+creditmemo_itempost_success_msg,The process to post invoice to G/L has been initiated.
+dept_column,Department
+type_column,Type
+invoiceno_column,Invoice #
+jobno_column,Job #
+lastname_column,Last Name
+invoicedate_column,Invoice Date
+printdate_column,Print Date
+disabled_state,defocused
+posted,Posted
+adjusted,Adjusting
+readytopost,Ready to Post
+preview,Preview
+jobnumber_test,000000
+paymentmethod_bank,Bank Draft
+account_number,9876543210
+routing_number,021000021
+paymentmethod_card,CompanyCard
+card_number,4111 1111 1111 1111
+cvv,123
+expiremonth,12
+expireyear,2024
+creditmemo_reason,OTHER - Unspecified reason
+open_filter_expected,OPEN
+closed_filter_expected,CLOSED
+canceled_filter_expected,CANCELED
+finalized_filter_expected,FINALIZED
+unfinalized_filter_expected,UNFINALIZED
+notinvoiced_filter_expected,NOT INVOICED
+all_filter_expected,ALL
+notprinted_filter_expected,Not Printed
+Post_filter_expected,Post
+nxtbatch_filter_expected,Next Batch
+lastbatch_filter_expected,Last Batch
+Adjusting_filter_expected,Adjusting
+readytopost_filter_expected,Ready to Post
+printed_filter_expected,Printed
+post_txt,Post
+notprinted_txt,Not Printed
+printed_txt,Printed
+disabled_state,disabled
+visible_state,visible
+detached_state,detached
+unchecked_state,unchecked
+batch_success_msg,Batch Print Process has been Initiated. Please refresh to see the Progess.
+batch_completed_msg,Batch Print Process has been successfully completed.
+batch_status_abort,Aborted
+batch_status_success,Success 2/2

@@ -1,0 +1,101 @@
+key,value
+lead_source_type,CLUB
+lead_source_id,INV
+address_1,113 Delhi
+city,NYCCCD
+state,NYCCCD
+zip_code,110019
+payment_method,Cash
+job_class,Electrical
+job_type,PanIN - Panel Installation
+job_lead_source,TELE - Telemarketing
+lead_source,TESTSL
+ticket_Type,Other 
+agreement_type,11TC6 - 
+month,March
+last_name,robot
+description,testtest
+user_test_data,xavier
+create_job,Yes
+opportunity_type,Estimate for Repair
+department_name,01-Sales
+technician,Brandi Kramer
+technician_2,Drew Bledsoe
+lead_source_type_2,INV - Company Invoice
+equipment,AC
+title,Mr.
+address,test cuntry
+send_address,1234 Steelwood Road Columbus OH, USA
+send_address,1234 Steelwood Road
+property_type,Residential
+payment_added__success_message,Payment details saved successfully
+invalid_phno_validation_message,Please enter a valid phone number.
+customer_creation_success_message,Customer Record Created Successfully
+job_created_success_msg,Call Record Created Successfully
+ticket_created_succ_title_msg,Ticket record updated successfully.
+ticket_created_succ_desc_msg,All ticket edits have been recorded and saved
+post_pending_success_msg,Call Updated to Post Pending
+agreement_created_succ_msg,Agreement created successfully
+agree_future_pay_detail,Future Payment Details Saved Successfully
+agree_payment_done,Payment completed successfully
+bill_account_link_succ_msg,Billing account linked successfully
+unlink_bill_acc_mesg,Billing account unlinked successfully
+job_abort_msg,Call Aborted
+ticket_abort_msg,Ticket Aborted.
+sales_abort_msg,Opportunity Aborted.
+agreementpayment_succ_msg,Payment completed successfully
+job_cancell_msg,Job Successfully Canceled
+sales_oppor_confr_msg,Sales Opportunity Confirmation:
+sales_creation_succ_desc_msg,All Sales edits have been recorded and saved
+ticket_self_assign_msg,All ticket edits have been recorded and saved
+agr_validation_msg,Number of annual scheduled visits does not equal visits per year
+edit_billing_acc_msg,Billing Account successfully updated.
+tokenixation_msg,Billing Account successfully updated.
+reschedule_job_msg,Assignment Successfully Scheduled
+assign_succ_smg,Assignment Successfully Added
+update_sustomer_information,Customer Information Updated Successfully
+update_cust_location,Location successfully updated.
+updatenote,Automation testing-testing update note functionality
+note_update_succc_msg,Notes Updated Successfully.
+other_call_reason,Spam
+other_call_desc,Automation testing test data
+other_title_msg,Call Saved.
+other_desc_msg,Item successfully updated.
+expected_jobtype,Panel Installation
+expected_txt,Aborted
+post_pending_exp_txt,Post Pending
+other_exp_txt,New
+opportunity_txt,Opportunity Created
+job_exp_txt,Job Created
+ticket_exp_txt,Ticket Created
+receivedby,admin@automation.com
+location_added,Location successfully added.
+exp_add_txt,1234 Steelwood Road, Columbus, OH 43212
+service_location_removed_succ_msg,Location successfully removed.
+communicationpanel_heading,Incoming Phone Calls
+payment_note,Datascope Analytics or Datascope is a data-driven consulting and design firm based in Chicago IL.[1] The firm was founded in 2009 by co-founders Mike Stringer and Dean Malmgren after the two realized the lodes that could be extracted from data science.[2] In addition to analyzing massive amounts of data the firm builds useful tools for people organizations and companies to learn from data and be more quantitative in how they approach different problems. Their data science services include strategy consulting software development and training.
+old_customer,robot Framework
+job_status_1,Canceled
+email_id,sapienpharetraVivamusbibendumnislidmetusdapibusultriciesPellentesquehabitantmorbitristiquesesdsxxcxjxnxzhcdfgdfdbsdssdjsnjnvgcvxcz xxgvxbnxzgtfssdf3e3efwbnd bscxxcvxcxzkmzxsscucsdasaksasakskaskaslaksaaskjasaassfgyfhcsnmxxaksajsass@gmail.com
+tax_code,Nitin
+zone,automation
+taxcode,Auto
+testname,automationagreement
+txt_edit,Edit
+txt_view_agreement,View Agreement
+txt_agreement_rofitability,Agreement Profitability
+txt_adjust_reserve,Adjust Reserve
+txt_preview_single_notice,Preview Single Notice
+txt_print_single_notice,Print Single Notice
+txt_renew_agreement,Renew Agreement
+txt_create_periodic_cnvoice,Create Periodic Invoice
+txt_terminate_Cancel,Terminate/Cancel
+phone_number_1,3546575767
+phone_number_2,4567890987
+zone,automation
+omnis_confirmation_txt1,This will redirect to the call handling screen. Do you want to continue?
+nocustomer_foundactualtext,No customer found. Do you want to create a new customer?
+alternate_zip_code,43203
+alternate_address,12352 Mumbai
+alternate_city,Columbus
+alternate_state,OH

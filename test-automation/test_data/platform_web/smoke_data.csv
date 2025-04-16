@@ -1,0 +1,104 @@
+key,value
+lead_source_type,CLUB
+lead_source_id,INV
+address_1,1270 Lakme street
+city,USA
+state,TA
+zip_code,43210
+payment_method,Cash
+job_class,Electrical
+job_type,PanIN - Panel Installation
+lead_source,TESTSL
+job_lead_source,TELE - Telemarketing
+lead_source_type_2,INV - Company Invoice
+technician_name,Brandi Kramer
+equipment,AC
+job_created_success_msg,Call Record Created Successfully
+customer_creation_success_message,Customer Record Created Successfully
+sales_oppor_confr_msg,Sales Opportunity Confirmation:
+sales_creation_succ_desc_msg,All Sales edits have been recorded and saved
+unassignment_successfull_msg,Assignment Successfully Unassigned
+accounts_tab,Accounts
+tgl_address_1,111 1st Street
+tgl_address_2,"111 1st Street,Buffalo,NY,14216"
+open_item_last_name,Avery
+open_item_phone_number,8249828
+overdue_last_name,siwnnovg
+overdue_phone_number,7168760755
+Vendor_Address,"Tessier Drive, Columbus, OH, USA"
+Vendor_Added_Notification,Vendor added successfully.
+invoice_created_notification,Vendor Invoice created successfully.
+invoice_posted_succes_msg,Invoice posted successfully
+dispatched_time,06
+onsite_time,07
+completed_time,09
+updated_assignment_progress_msg,Successfully updated the assignment progress status
+job_closed_msg,The Job has been successfully Closed.
+job_finalized_msg,Job has been finalized successfully
+service_location,"1270 Lakme street, NA, USA,TA, 43210"
+equipment_type,AC
+equipment_added_msg,Equipment added successfully.
+assignement_added_success_message,Assignment Successfully Added
+technician_name_2,Drew Bledsoe
+job_assign_msg,Job successfully assigned
+customer_created_success_message,Customer Record Created Successfully
+amount_tc_11,50
+payment_method,Cash
+unapplied_rdo_btn,Unapplied
+payment_completed_successfully_message,Payment completed successfully
+department,00
+sales_tax_code,NY-NI
+billing_account,111697 - 
+project_created_msg,Project Created successfully.
+dropdown_value,IN
+project_updated_msg,Project changes have been saved
+skill,AGSALE
+requisition_created_success_msg,Requisition added successfully
+ticket_Type,Other 
+agreement_type,11TC6 - 
+month,March
+last_name,robot
+description,testtest
+post_pending_success_msg,Call Updated to Post Pending
+agreement_created_succ_msg,Agreement created successfully
+agree_future_pay_detail,Future Payment Details Saved Successfully
+bill_account_link_succ_msg,Billing account linked successfully
+unlink_bill_acc_mesg,Billing account unlinked successfully
+edit_billing_acc_msg,Billing Account successfully updated.
+tokenixation_msg,Tokenization incomplete
+reschedule_job_msg,Assignment Successfully Scheduled
+assign_succ_smg,Assignment Successfully Added
+update_sustomer_information,Customer Information Updated Successfully
+update_cust_location,Location successfully updated.
+updatenote,Automation testing-testing update note functionality
+note_update_succc_msg,Notes Updated Successfully.
+other_call_reason,Spam
+other_call_desc,Automation testing test data
+other_title_msg,Call Saved.
+other_desc_msg,Item successfully updated.
+expected_jobtype,Panel Installation
+expected_txt,Aborted
+post_pending_exp_txt,Post Pending
+other_exp_txt,New
+opportunity_txt,Opportunity Created
+job_exp_txt,Job Created
+ticket_exp_txt,Ticket Created
+receivedby,admin@automation.com
+location_added,Location successfully added.
+address,test cuntry
+send_address,"1234 Steelwood Road Columbus OH, USA"
+send_address,1234 Steelwood Road
+periodi_inv,Periodic Invoices
+cc,gaurav.sharma@protiviti.co.in
+period_created_succ_msg,New Period Created
+succ_sts,Success
+post_succ_text,Period Record has been posted successfully
+Vendor_Number,700007
+Name_PO,sidhant ranjan
+Name_PO_2,Richard Blaine
+Item_Type,OverHead
+Item#,Bonus
+Unit_Cost,5000
+signed_status,Signed
+changes_updated_msg,Your changes have been successfully saved.
+
